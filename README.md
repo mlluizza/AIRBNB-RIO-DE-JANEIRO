@@ -1,3 +1,5 @@
 # AIRBNB-RIO-DE-JANEIRO
 
-https://www.kaggle.com/datasets/allanbruno/airbnb-rio-de-janeiro
+Em andamento...
+
+link: https://www.kaggle.com/datasets/allanbruno/airbnb-rio-de-janeiro
