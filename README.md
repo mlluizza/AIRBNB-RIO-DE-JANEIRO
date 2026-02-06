@@ -10,4 +10,17 @@ Este projeto tem como objetivo a análise exploratória de dados (EDA) relaciona
 
 
 ### 2️⃣ Fontes de Dados Utilizadas
+1. **Arquivo CSV - Dados do Airbnb**: 
+    - **Descrição**: Contém informações sobre preços, localização, e outros atributos.
+    - **Tipo de Dados**: Estruturados (dados tabulares)
+    - **Método de Coleta**: O arquivo foi importado para o projeto diretamente via upload.
+    - **Link do Kaggle**: [Kaggle Dataset]
+      ([https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/allanbruno/airbnb-rio-de-janeiro))
+
+
+
+
+
+
+
 link: https://www.kaggle.com/datasets/allanbruno/airbnb-rio-de-janeiro
