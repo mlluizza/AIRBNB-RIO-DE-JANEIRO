@@ -8,4 +8,6 @@ Este projeto tem como objetivo a análise exploratória de dados (EDA) relaciona
 - Como a sazonalidade afeta os preços ao longo do ano?
 - Quais bairros têm as melhores e piores médias de preço?
 
+
+### 2️⃣ Fontes de Dados Utilizadas
 link: https://www.kaggle.com/datasets/allanbruno/airbnb-rio-de-janeiro
