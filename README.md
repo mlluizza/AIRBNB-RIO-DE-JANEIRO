@@ -47,4 +47,7 @@ As visualizações interativas foram criadas utilizando Looker Studio, para forn
 (https://lookerstudio.google.com/u/0/reporting/0a41c28a-19e3-4433-9ae6-efc49e054954/page/TsalF/edit))
 
 
-link: https://www.kaggle.com/datasets/allanbruno/airbnb-rio-de-janeiro
+### 6️⃣ Imagens
+<span>
+<img width="1399" height="795" alt="Image" src="https://github.com/user-attachments/assets/d4ad638f-dd9a-4c2a-843a-55c1fa361019" />
+
