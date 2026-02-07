@@ -39,6 +39,12 @@ A análise de dados foi conduzida com as seguintes etapas:
 - **Looker Studio** (para criação de dashboards e visualizações interativas)
 
 ### 5️⃣ Visualizações
-As visualizações de dados foram criadas utilizando **Looker Studio**, com gráficos interativos para mostrar:
+As visualizações interativas foram criadas utilizando Looker Studio, para fornecer uma análise dinâmica e de fácil compreensão sobre os dados de vendas. Alguns dos gráficos principais incluem:
+ - Vendas totais por segmento e categoria de produto: Identificação dos segmentos que mais geram receita.
+ - Distribuição das vendas por região e modo de envio: Comparação do desempenho de vendas conforme diferentes métodos de envio e regiões geográficas.
+ - Comparação de lucros por produto e subcategoria: Avaliação dos produtos que oferecem maior retorno financeiro.
+ - - **Link do Looker Studio**: [Looker Studio Dashboard]
+(https://lookerstudio.google.com/u/0/reporting/0a41c28a-19e3-4433-9ae6-efc49e054954/page/TsalF/edit))
+
 
 link: https://www.kaggle.com/datasets/allanbruno/airbnb-rio-de-janeiro
