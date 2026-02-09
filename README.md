@@ -44,7 +44,7 @@ As visualizações interativas foram criadas utilizando Looker Studio, para forn
  - Distribuição das vendas por região e modo de envio: Comparação do desempenho de vendas conforme diferentes métodos de envio e regiões geográficas.
  - Comparação de lucros por produto e subcategoria: Avaliação dos produtos que oferecem maior retorno financeiro.
  - - **Link do Looker Studio**: [Looker Studio Dashboard]
-(https://lookerstudio.google.com/u/0/reporting/0a41c28a-19e3-4433-9ae6-efc49e054954/page/TsalF/edit))
+(https://lookerstudio.google.com/u/0/reporting/0a41c28a-19e3-4433-9ae6-efc49e054954/page/TsalF/edit)
 
 
 ### 6️⃣ Imagens
